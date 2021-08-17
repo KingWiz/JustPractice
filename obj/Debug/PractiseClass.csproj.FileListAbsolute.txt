@@ -1,0 +1,10 @@
+D:\BIT\BIT 3rd Sem\Extra\3. C# Project\PractiseClass\PractiseClass\obj\Debug\PractiseClass.csproj.AssemblyReference.cache
+D:\BIT\BIT 3rd Sem\Extra\3. C# Project\PractiseClass\PractiseClass\obj\Debug\PractiseClass.Form1.resources
+D:\BIT\BIT 3rd Sem\Extra\3. C# Project\PractiseClass\PractiseClass\obj\Debug\PractiseClass.Properties.Resources.resources
+D:\BIT\BIT 3rd Sem\Extra\3. C# Project\PractiseClass\PractiseClass\obj\Debug\PractiseClass.csproj.GenerateResource.cache
+D:\BIT\BIT 3rd Sem\Extra\3. C# Project\PractiseClass\PractiseClass\obj\Debug\PractiseClass.csproj.CoreCompileInputs.cache
+D:\BIT\BIT 3rd Sem\Extra\3. C# Project\PractiseClass\PractiseClass\bin\Debug\PractiseClass.exe.config
+D:\BIT\BIT 3rd Sem\Extra\3. C# Project\PractiseClass\PractiseClass\bin\Debug\PractiseClass.exe
+D:\BIT\BIT 3rd Sem\Extra\3. C# Project\PractiseClass\PractiseClass\bin\Debug\PractiseClass.pdb
+D:\BIT\BIT 3rd Sem\Extra\3. C# Project\PractiseClass\PractiseClass\obj\Debug\PractiseClass.exe
+D:\BIT\BIT 3rd Sem\Extra\3. C# Project\PractiseClass\PractiseClass\obj\Debug\PractiseClass.pdb
